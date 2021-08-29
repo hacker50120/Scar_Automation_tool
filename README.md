@@ -2,7 +2,7 @@
 To run the Scar 
 Use command: `wget http://161.117.85.147/tool/scar-installer.sh;chmod +x scar-installer.sh;bash scar-installer.sh`
 
-#Faetures of Scan Automation
+# Faetures of Scan Automation
 1. Ability to server hardening
 2. Infra level VA scan and automation
 3. Root Privilages escalation assessment automation
