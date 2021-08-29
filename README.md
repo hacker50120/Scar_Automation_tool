@@ -1,6 +1,7 @@
 # Scar_Automation_tool
-To run the Scar 
-Use command: `wget http://161.117.85.147/tool/scar-installer.sh;chmod +x scar-installer.sh;bash scar-installer.sh`
+`Developed by Security Researcher | Abhishek Kanaujia`
+
+To run the Scar Use command: `wget http://161.117.85.147/tool/scar-installer.sh;chmod +x scar-installer.sh;bash scar-installer.sh`
 
 # Faetures of Scan Automation
 1. Ability to server hardening
